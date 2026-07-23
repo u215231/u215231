@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @u215231
+- 👋 Hi, I’m Marc Bosch Manzano.
 - 👀 I’m interested in data structures, algorithms, and data bases.
 - 🌱 I’m currently learning Data Engineering in Universitat Pompeu Fabra.
 - 💞️ I’m looking to collaborate on a project.
